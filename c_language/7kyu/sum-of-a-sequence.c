@@ -15,8 +15,6 @@
 
 // link: https://www.codewars.com/kata/586f6741c66d18c22800010a
 
-#include <stdio.h>
-
 unsigned sequence_sum(unsigned start, unsigned end, unsigned step){
     unsigned int counter;
     unsigned int sum = 0;
